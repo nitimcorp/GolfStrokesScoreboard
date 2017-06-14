@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Scoreboard</string>
+    <string name="minus_symbol">-</string>
+    <string name="plus_symbol">+</string>
+</resources>
